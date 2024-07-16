@@ -1,7 +1,7 @@
 # Student Examples
 A repo to host examples suited for novel coders and students interested in the Noteable service
 
-# Jupyter Notebooks for Space Data Visualization Webinar
+# Jupyter Notebooks for Space Data Visualisation Webinar
 
 Welcome to the GitHub repository for our webinar on advanced data visualization using Jupyter notebooks! This repository features two specific examples that demonstrate data visualisation techniques:  **Orbit Congestion Analysis** and  **Ridge Maps** using matplotlib.
 
